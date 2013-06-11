@@ -1,4 +1,5 @@
 scrip de ka base de datos 
+cualqier cosaaaaaa
 create database planilla;
 go
 
